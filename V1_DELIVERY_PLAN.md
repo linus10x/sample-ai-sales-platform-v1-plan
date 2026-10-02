@@ -15,7 +15,7 @@ Get revenue from the 30,000 existing CRM records first, because that data is alr
 ## What should be working, and when
 | Day | Working software |
 |---|---|
-| 10 | CRM two-way sync in a staging copy; all 30,000 records ingested, cleaned and de-duplicated; data-quality report; first A/B/C tiering the team can review |
+| 10 | CRM two-way sync in a staging copy; the 30,000 records ingested and de-duplicated; data-quality report on what still needs cleaning; first A/B/C tiering the team can review |
 | 20 | Reactivation engine live on a small, human-reviewed batch (for example 200 dormant accounts): personalized emails drafted by AI, approved by a person, replies classified and logged back to the CRM |
 | 30 | Reply handling and meeting booking automated for low-risk replies; human takeover for everything else; scoring re-runs nightly; first revenue attribution report |
 | 45 | Website AI salesperson live with qualification, recommendation and booking; proposals generated within pricing guardrails; contract and deposit steps behind human approval; decision log reviewable by the owner |
