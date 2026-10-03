@@ -1,8 +1,8 @@
 # SAMPLE: V1 plan for a shared AI sales and revenue platform
 
-> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory, written against a public job description. No client relationship exists and I have not seen the client's specification. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory, written against a public job description. No client relationship exists and I have not seen the client's specification. Prepared with AI drafting assistance under my direction. Revised October 3, 2026 (America/Chicago).**
 
-This responds to the [public Upwork sales-platform description](https://www.upwork.com/freelance-jobs/apply/Senior-Full-Stack-Developer-Build-Autonomous-Sales-Revenue-Platform_~022099867503901921415/). The detailed client specification, account access, provider approvals and existing data quality have not been supplied. The milestones below are planning targets to confirm in the first paid discovery milestone.
+This responds to a public job description. The detailed client specification, account access, provider approvals and existing data quality have not been supplied. The milestones below are planning targets to confirm in the first paid discovery milestone.
 
 ## Outcome and commercial envelope
 
@@ -58,4 +58,4 @@ The main engineering risk is keeping account and commercial state consistent acr
 
 ## Proof this plan provides
 
-This repository is a plan, not a working sales platform. The related [MCP gateway](https://github.com/linus10x/sample-mcp-context-gateway) is a runnable synthetic demonstration of scopes, tenant boundaries, approval revalidation and atomic local audit/state. It supports a technical discussion of the controls. Existing personal delivery claims and 2-3 relevant project examples in the bid must be separately supported; these two samples do not become past client projects.
+This repository is a plan, not a working sales platform. The related [MCP gateway](https://github.com/linus10x/sample-mcp-context-gateway) is a runnable synthetic demonstration of scopes, tenant boundaries, approval revalidation and atomic local audit/state. It supports a technical discussion of the controls. Neither sample is a past client project.
