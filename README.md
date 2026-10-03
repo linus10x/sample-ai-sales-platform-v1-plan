@@ -1,18 +1,7 @@
-# SAMPLE: V1 delivery plan for an AI-run sales platform on an existing CRM
+# SAMPLE: AI sales-platform V1 delivery plan
 
-> **Illustrative sample written against a public job description. No client relationship; I have not seen any client specification.** Prepared by Kunjar Bhaduri (Bhaduri Advisory), October 2, 2026, with AI drafting assistance under my direction.
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
 
-## What it is
-`V1_DELIVERY_PLAN.md`: architecture, what should be working at day 10, 20, 30 and 45, what I would deliberately leave out of V1, and the hardest part (keeping the CRM trustworthy while an automated system writes to it).
+Read the [delivery plan](V1_DELIVERY_PLAN.md) for the shared reactivation/website architecture, milestones, acceptance criteria and commercial assumptions. It aligns with $150/hour, 30 hours/week for one developer with AI assistance and a 6-8 week, 180-240 hour V1; the first 20-hour milestone is included. The bounded core includes approved payment capture and verified CRM Closed/Won. Day 45 is a controlled-release target, with hardening through week 8 where needed.
 
-## Which bids it answers
-AI-native sales and CRM automation builds where an AI agent qualifies leads, drafts outreach, prices, proposes and requests payment, and the owner needs guardrails and an audit trail.
-
-## How to use it
-Read the plan (about 5 minutes). There is no code in this repository; to run the guardrail pattern, see the related sample below.
-
-## Related runnable sample
-The guardrail pattern (scopes per tool, human approval with separation of duties, ordering rules before any payment request, hash-chained audit log) is demonstrated in the separate sample repository `sample-mcp-context-gateway`.
-
-## Limits
-Timeline and scope are provisional until the real specification is read. No pricing is included.
+This supports the [Upwork sales-platform brief](https://www.upwork.com/freelance-jobs/apply/Senior-Full-Stack-Developer-Build-Autonomous-Sales-Revenue-Platform_~022099867503901921415/) and related CRM/AI builds. No detailed client specification has been supplied. There is no implementation here; the separate [gateway sample](https://github.com/linus10x/sample-mcp-context-gateway) demonstrates local approval controls on synthetic data. Neither repository represents a shipped client sales platform. Publication requires owner approval.
